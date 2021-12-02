@@ -1,0 +1,18 @@
+@media screen and (max-width:992px) and (min-width:769px) {
+    nav>ul>ul{
+        list-style: none;
+        width: 60%;
+        display: flex;
+        justify-content: space-around;
+    }
+    article.furia{
+        margin-bottom: 10px;
+    }
+    article.furia p{
+        width: 100%;
+    }
+    article.furia>div.furiaImg{
+        width: 60%;
+        margin: 15px;
+    }
+}
